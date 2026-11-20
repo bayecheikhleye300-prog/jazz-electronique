@@ -1,0 +1,7 @@
+config/database.php
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+vendor/
+node_modules/
